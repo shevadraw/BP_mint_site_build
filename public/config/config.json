@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc87A3fA0c30Dd90e069e457B0F0269eF8Cf17174",
+  "SCAN_LINK": "https://polygonscan.com/address/0xc87A3fA0c30Dd90e069e457B0F0269eF8Cf17174",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "BizarrePiranhas",
+  "SYMBOL": "BP",
+  "MAX_SUPPLY": 3000,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bizarrepiranhas",
+  "SHOW_BACKGROUND": true
+}
